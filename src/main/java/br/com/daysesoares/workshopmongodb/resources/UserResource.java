@@ -66,5 +66,4 @@ public class UserResource {
 		return ResponseEntity.ok().body(obj.getPosts());
 	}
 	
-
 }
